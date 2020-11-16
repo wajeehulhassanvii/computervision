@@ -1,4 +1,15 @@
 datasets
 datasets/*
+
 checkpoints
 checkpoints/*
+
+
+github_others/*
+github_others/
+github_others/**
+
+*.ipynb_checkpoints
+
+notebooks/data/*
+notebooks/test_images/*
