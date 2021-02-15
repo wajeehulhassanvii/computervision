@@ -13,3 +13,5 @@ github_others/**
 
 notebooks/data/*
 notebooks/test_images/*
+
+*.cpp*
